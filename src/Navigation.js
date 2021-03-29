@@ -5,7 +5,7 @@ export default class Navigation extends React.Component {
 		return (
 			<section class = 'web-header'>
 				<div class = 'web-name'>
-					Rudra Thakkar
+					Hey there, i am Rudra.
 				</div>
 			</section>
 		);

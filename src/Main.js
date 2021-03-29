@@ -6,8 +6,10 @@ import Body from './Body';
 export default class Main extends React.Component {
 	render() {
 		return (
-			<Navigation/>
-			<Body/>
+			<div>
+				<Navigation/>
+				<Body/>
+			</div>
 		);
 	}
 }
